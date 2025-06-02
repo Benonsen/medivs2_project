@@ -1,0 +1,10 @@
+Echonet-Frames-Masks-Dataset
+.vs/medivs2_project/v17/.wsuo
+.vs/medivs2_project/v17/DocumentLayout.json
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+.vs/medivs2_project/FileContentIndex/5d926efa-faba-4ed7-a53c-c1eccaa85f6d.vsidx
+cuda_test.py
+best_model.pt
+eval_visualizations
+evaluation_metrics.png
