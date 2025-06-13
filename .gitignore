@@ -5,7 +5,9 @@ Echonet-Frames-Masks-Dataset
 .vs/slnx.sqlite
 .vs/medivs2_project/FileContentIndex/5d926efa-faba-4ed7-a53c-c1eccaa85f6d.vsidx
 cuda_test.py
-best_model.pt
 eval_visualizations
 evaluation_metrics.png
 maskTestdata
+sam_ultrasound_checkpoints/best_model.pt
+closedMask.png
+center_model.pth
